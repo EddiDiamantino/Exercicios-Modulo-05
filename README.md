@@ -1,3 +1,3 @@
 Meu primeiro exercicio GIt.
 Alteração do exercício 07.
-Alteração do exercício 11.
+Alteração solicitada no exercício 19.
